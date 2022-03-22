@@ -1,1 +1,1 @@
-# fourthbrain-retinal-disease-detection
+# Retinal Disease Detection
